@@ -13,6 +13,7 @@ Pursuing a Professorship in Nuclear Physics, and starting an experimental progra
 2018	Ph.D Nuclear Chemistry	Washington University in St. Louis
 
 2013		B.A. Physics with honors	University of Chicago
+
 2013		B.S. Mathematics		University of Chicago	
 
 
