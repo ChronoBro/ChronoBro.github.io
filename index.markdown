@@ -4,3 +4,5 @@
 
 layout: page
 ---
+
+<img src="../assets/img/1920x1200_wallpaper_westerlund_2.jpg" title="Westerlund_2" alt="westerlund_2" />
