@@ -6,7 +6,8 @@ permalink: /CV/
 
 ## Curriculum Vitae
 
-# Objective: Pursuing a Professorship in Nuclear Physics, and starting an experimental program in nuclear science. 
+# Objective:
+Pursuing a Professorship in Nuclear Physics, and starting an experimental program in nuclear science. 
 
 # Education:	
 2018	Ph.D Nuclear Chemistry	Washington University in St. Louis
