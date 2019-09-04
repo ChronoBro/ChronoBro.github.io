@@ -4,12 +4,12 @@ title: CV
 permalink: /CV/
 ---
 
-## Curriculum Vitae
+# Curriculum Vitae
 
-# Objective:
+## Objective:
 Pursuing a Professorship in Nuclear Physics, and starting an experimental program in nuclear science. 
 
-# Education:	
+## Education:	
 2018	Ph.D Nuclear Chemistry	Washington University in St. Louis
 
 2013		B.A. Physics with honors	University of Chicago
@@ -17,7 +17,7 @@ Pursuing a Professorship in Nuclear Physics, and starting an experimental progra
 2013		B.S. Mathematics		University of Chicago	
 
 
-# Teaching Experience:
+## Teaching Experience:
 
 Fall 2017	T.A. for Chem 460 Radiochemistry
 		Upper Level Undergraduate/Graduate Student Lab.
@@ -34,7 +34,7 @@ Fall 2017	T.A. for Chem 460 Radiochemistry
 
 
 
-# Research Experience:
+## Research Experience:
 
 2014-2018	Graduate Research Assistant
 		PI: Dr. Lee Sobotka- Department of Chemistry, Washington 			University in St. Louis
@@ -64,18 +64,18 @@ Summer 	Research Assistant
 		- Designed and constructed a prototype solar concentrator
 		- Wrote C++ programs to read and analyze data of solar flux to 			aid development of solar panels
 	 	
-# Relevant Skills:
+## Relevant Skills:
 
 Programming skills in C++ and ROOT. These programming skills have been applied to analyzing large data sets and constructing nuclear scattering simulations to determine geometrical efficiency and resolution of detector systems. Proficient in 3D-CAD programs, in particular, Autodesk Inventor. 
 
-# Teaching Statement:
+## Teaching Statement:
 I want to foster a culture of learning and excitement for science, while also involving students in state-of-the-art experiments. 
 
-# Research Interests:
+## Research Interests:
 Searching for physics Beyond the Standard Model using nuclear spectroscopic techniques. Understanding nuclear structure and dynamics through scattering experiments. Developing state-of-the-art neutron detectors for use throughout nuclear science. Understanding astrophysical processes through a nuclear lens, for example, isotopic abundances generated in neutron-star mergers. Studying the implications of different nuclear equations of state (EOS) on dense matter.  
 
  
-# Conferences and Awards:
+## Conferences and Awards:
 
 2018 		Selected to talk at April Meeting of APS Large Longitudinal 			Spin Alignment Generated in Inelastic Nuclear Reactions
 
@@ -92,7 +92,7 @@ Searching for physics Beyond the Standard Model using nuclear spectroscopic tech
 
 2014 		Poster at Rocky Mountain Conference on Magnetic 					Resonance Frequency Agile Gyrotron for DNP and 					Electron Decoupling
 
-# Publications:
+## Publications:
 
 2018		Hoff, D.E.M et al. Large Longitudinal Spin Alignment 				Generated in Inelastic Nuclear Reactions
 		Manuscript in preparation for submission to Phys. Rev. C

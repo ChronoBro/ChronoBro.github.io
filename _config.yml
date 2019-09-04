@@ -39,8 +39,8 @@ title-img: "/img/nuclear_symbol.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-#navbar-col: "#6599FF"
+#navbar-col: "#F5F5F5" 
+navbar-col: "#99ffff"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
@@ -69,11 +69,11 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+$  rss: true
+  email: "Daniel_Hoff@uml.edu"
+#  facebook: deanattali
+  github: ChronoBro
+#  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -89,9 +89,9 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+#  twitter: true
+#  facebook: true
+#  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
