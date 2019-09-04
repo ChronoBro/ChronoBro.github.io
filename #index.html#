@@ -48,7 +48,7 @@ use-site-title: true
 <!--       {% endfor %} -->
 <!--       {% else %} -->
 <!--         {{ post.tags | join: ", " }} -->
-<!--       {% endif %} -->
+b<!--       {% endif %} -->
 <!--     </div> -->
 <!--     {% endif %} -->
 

@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: Daniel E.M. Hoff
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -46,7 +46,8 @@ navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5"
+#footer-col: "#F5F5F5"
+footer-col: "#99ffff"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
