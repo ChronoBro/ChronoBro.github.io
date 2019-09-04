@@ -1,17 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
-bigimg: /img/1920x1200_wallpaper_westerlund_2.jpg
+subtitle: 
+
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, you can call me Dan. I'm currently a researcher of experimental nuclear physics working as a postdoc at University of Masschusetts Lowell. This means I build detector systems, run nuclear reaction simulations and calcuations, and travel to accelerator facilities around the U.S. (and hopefully internationally soon).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+In my free time I play video games, write short stories (you can check a few out [here](/stuff/)), draw, and other stuff. You can also check out my [instagram](https://www.instagram.com/chronobro) to see what I've been up to. 

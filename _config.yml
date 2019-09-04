@@ -22,6 +22,8 @@ description: A virtual proof that I'm awesome
 navbar-links:
   About Me: "aboutme"
   CV: "CV"
+  Research: "research"
+  Stuff: "stuff"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
@@ -80,7 +82,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: chronobro
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -155,6 +157,8 @@ title-separator: "-"
 
 # Ruby Date Format
 date_format: "%B %-d, %Y"
+
+paginate_path: "/stuff/page:num/"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
