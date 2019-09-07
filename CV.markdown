@@ -107,7 +107,7 @@ Poster at SSAP Symposium
 [_Producing Huge Spin Alignment of Inelastically Scattered Projectiles in Clustered Nuclei_](/talks/Li7AlignmentPosterDH_v9.pdf)      
 **Received Poster Award**
 
-**2017**
+**2017**     
 Invited Talk at Los Alamos National Laboratory (LANL) Nuclear Data Seminar       
 [_Large Longitudinal Spin Alignment of Excited Projectiles in Intermediate Energy Inelastic Scattering_](/talks/Li7Alignment_LANLtalk_9-19-17.pdf)
 
