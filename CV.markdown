@@ -108,7 +108,6 @@ Poster at SSAP Symposium
 **Received Poster Award**
 
 **2017**
-
 Invited Talk at Los Alamos National Laboratory (LANL) Nuclear Data Seminar       
 [_Large Longitudinal Spin Alignment of Excited Projectiles in Intermediate Energy Inelastic Scattering_](/talks/Li7Alignment_LANLtalk_9-19-17.pdf)
 
