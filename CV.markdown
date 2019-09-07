@@ -12,9 +12,7 @@ Pursuing a Professorship in Nuclear Physics, and starting an experimental progra
 Ph.D Nuclear Chemistry	_Washington University in St. Louis_
 
 **2013**   
-B.A. Physics with honors	_University of Chicago_
-
-**2013**   
+B.A. Physics with honors	_University of Chicago_     
 B.S. Mathematics		_University of Chicago_	
 
 ## Teaching Statement:
@@ -72,46 +70,50 @@ Searching for physics Beyond the Standard Model using nuclear spectroscopic tech
 ## Publications:
 
 **2019**     
-Webb, T.B. et al. _Particle decays of levels in <sup>11,12</sup>N and <sup>12</sup> investigated with the invariant-mass method_ Physical Review C 100 (2), 024306
+Webb, T.B. et al. [_Particle decays of levels in <sup>11,12</sup>N and <sup>12</sup>O investigated with the invariant-mass method_](https://doi.org/10.1103/PhysRevC.100.024306) Physical Review C 100 (2), 024306.
 
-Webb, T.B. et al. _First Observation of Unbound <sup>11</sup> O, the Mirror of the Halo Nucleus <sup>11</sup> Li_ Physical review letters 122 (12), 122501
+Webb, T.B. et al. [_First Observation of Unbound <sup>11</sup>O, the Mirror of the Halo Nucleus <sup>11</sup>Li_](https://doi.org/10.1103/PhysRevLett.122.122501) Physical review letters 122 (12), 122501.
 
 **2018**    
-Hoff, D.E.M et al. _Large Longitudinal Spin Alignment Generated in Inelastic Nuclear Reactions_ Physical Review C 97 (5), 054605
+Hoff, D.E.M et al. [_Large Longitudinal Spin Alignment Generated in Inelastic Nuclear Reactions_](https://doi.org/10.1103/PhysRevC.97.054605) Physical Review C 97 (5), 054605.
 
-Patch, S.K., Hoff, D.E.M., Webb, T.B., Sobotka, L.G., Zhao, T _Two-stage ionoacoustic range verification leveraging Monte Carlo and acoustic simulations to stably account for tissue inhomogeneity and accelerator–specific time structure- A simulation study_ Med. Phys., 45: 783–793.
+Patch, S.K., Hoff, D.E.M., Webb, T.B., Sobotka, L.G., Zhao, T [_Two-stage ionoacoustic range verification leveraging Monte Carlo and acoustic simulations to stably account for tissue inhomogeneity and accelerator–specific time structure- A simulation study_](https://doi.org/10.1002/mp.12681) Med. Phys., 45: 783–793.
 
 
 **2017**   
-Hoff, D.E.M, Charity, R.J. et al. _Large Longitudinal Spin Alignment of Excited Projectiles in Intermediate Energy Inelastic Scattering_ Phys. Rev. Lett. 119, 232501
+Hoff, D.E.M, Charity, R.J. et al. [_Large Longitudinal Spin Alignment of Excited Projectiles in Intermediate Energy Inelastic Scattering_](https://doi.org/10.1103/PhysRevLett.119.232501) Phys. Rev. Lett. 119, 232501.
 		
 **2015**    
-Hoff, D.E.M., Barnes, A.B. et al. _Frequency swept microwaves for hyperfine decoupling and time domain dynamic nuclear polarization_ Solid State Nuclear Magnetic Resonance, Volume 72, 2015, 79-89.
+Hoff, D.E.M., Barnes, A.B. et al. [_Frequency swept microwaves for hyperfine decoupling and time domain dynamic nuclear polarization_](https://doi.org/10.1016/j.ssnmr.2015.10.001) Solid State Nuclear Magnetic Resonance, Volume 72, 2015, 79-89.
 
 ## Conferences and Awards:
 
 **2019**     
 Poster at Nuclear Chemistry Gordon Conference    
-_<sup>73</sup>Sr \\(\beta\\)-delayed proton emission and the structure of <sup>73</sup>Rb_
+[_<sup>73</sup>Sr \\(\beta\\)-delayed proton emission and the structure of <sup>73</sup>Rb_](/talks/Sr73_GordonPoster2.pdf)
 
 
 Talk at April Meeting of APS    
-_A Radio-Frequency Fragment Separator (RFFS) for FRIB_
+[_A Radio-Frequency Fragment Separator (RFFS) for FRIB_](/talks/APSapril2019Talk.pdf)
 
 **2018**     
 Talk at April Meeting of APS     
-_Large Longitudinal Spin Alignment Generated in Inelastic Nuclear Reactions_
+[_Large Longitudinal Spin Alignment Generated in Inelastic Nuclear Reactions_](/talks/Li7Alignment_APS.pdf)
 
 Poster at April Meeting of APS    
 _ASICs for FRIB_
 
 Poster at SSAP Symposium    
-_Producing Huge Spin Alignment of Inelastically Scattered Projectiles in Clustered Nuclei_   
+[_Producing Huge Spin Alignment of Inelastically Scattered Projectiles in Clustered Nuclei_](/talks/Li7AlignmentPosterDH_v9.pdf)      
 **Received Poster Award**
 
-**2017**   
+**2017**
+
+Invited Talk at Los Alamos National Laboratory (LANL) Nuclear Data Seminar       
+[_Large Longitudinal Spin Alignment of Excited Projectiles in Intermediate Energy Inelastic Scattering_](/talks/Li7Alignment_LANLtalk_9-19-17.pdf)
+
 Poster/Talk at Nuclear Chemistry Gordon Conference   
-_Producing Huge Spin Alignment of Inelastically Scattered Projectiles in Clustered Nuclei_   
+[_Producing Huge Spin Alignment of Inelastically Scattered Projectiles in Clustered Nuclei_](/talks/Li7AlignmentPosterDH_v9.pdf)      
 **Selected to Give Talk based on Poster Session Vote**
 
 **2015**     
