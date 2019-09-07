@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Research
-bigimg: /img/1920x1200_wallpaper_westerlund_2.jpg
 ---
 
 ![](/img/Mirror_Figure5.png)
