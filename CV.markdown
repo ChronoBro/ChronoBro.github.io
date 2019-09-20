@@ -4,6 +4,8 @@ title: Currriculum Vitae
 permalink: /CV/
 ---
 
+You can find a PDF version [here](/img/CV.pdf).
+
 ## Objective:
 Pursuing a Professorship in Nuclear Physics, and starting an experimental program in nuclear science. 
 
