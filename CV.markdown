@@ -22,6 +22,12 @@ I want to foster a culture of learning and excitement for science, while involvi
 
 ## Teaching Experience:
 
+**Spring 2020**    
+Instructor for Phy 1410 at _University of Massachusetts, Lowell_   
+First Semester Physics Lecture (Classical Mechanics)  
+Section Size: 24 undergraduates   
+Time Commitment: 2 hours of instruction, and 2 hours of grading per week
+
 **Fall 2019**    
 Instructor for Phy 1440 at _University of Massachusetts, Lowell_   
 Second Semester Physics Lecture (Electromagnetism)  
@@ -70,6 +76,10 @@ Department of Physics,  _Washington University in St. Louis_
 Searching for physics Beyond the Standard Model using nuclear spectroscopic techniques. Understanding nuclear structure and dynamics through scattering experiments. Developing state-of-the-art neutron detectors for use throughout nuclear science. Understanding astrophysical processes through a nuclear lens, for example, isotopic abundances generated in neutron-star mergers. Studying the implications of different nuclear equations of state (EOS) on dense matter.  
 
 ## Publications:
+
+**2020**     
+Hoff, D.E.M., Rogers, A.M., Wang, S.M. (王思敏) et al. _Mirror symmetry violation in bound nuclear ground states_ Accepted for publication in _Nature_
+
 
 **2019**     
 Webb, T.B. et al. [_Particle decays of levels in <sup>11,12</sup>N and <sup>12</sup>O investigated with the invariant-mass method_](https://doi.org/10.1103/PhysRevC.100.024306) Physical Review C 100 (2), 024306.
