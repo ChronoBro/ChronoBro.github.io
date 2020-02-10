@@ -23,14 +23,14 @@ I want to foster a culture of learning and excitement for science, while involvi
 ## Teaching Experience:
 
 **Spring 2020**    
-Instructor for Phy 1410 at _University of Massachusetts, Lowell_   
-First Semester Physics Lecture (Classical Mechanics)  
+Instructor for Phy 1410 (Classical Mechanics) at _University of Massachusetts, Lowell_   
+First Semester Physics Lecture   
 Section Size: 24 undergraduates   
 Time Commitment: 2 hours of instruction, and 2 hours of grading per week
 
 **Fall 2019**    
-Instructor for Phy 1440 at _University of Massachusetts, Lowell_   
-Second Semester Physics Lecture (Electromagnetism)  
+Instructor for Phy 1440 (Electromagnetism) at _University of Massachusetts, Lowell_   
+Second Semester Physics Lecture   
 Section Size: 10 undergraduates   
 Time Commitment: 2 hours of instruction, and 2 hours of grading per week
 
