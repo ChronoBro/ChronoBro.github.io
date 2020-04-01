@@ -78,7 +78,7 @@ Searching for physics Beyond the Standard Model using nuclear spectroscopic tech
 ## Publications:
 
 **2020**     
-Hoff, D.E.M., Rogers, A.M., Wang, S.M. (王思敏) et al. _Mirror symmetry violation in bound nuclear ground states_ Accepted for publication in _Nature_
+Hoff, D.E.M., Rogers, A.M., Wang, S.M.(王思敏) et al. [_Mirror-symmetry violation in bound nuclear ground states._](https://doi.org/10.1038/s41586-020-2123-1) Nature 580, 52–55 (2020). 
 
 
 **2019**     
