@@ -98,7 +98,14 @@ Hoff, D.E.M, Charity, R.J. et al. [_Large Longitudinal Spin Alignment of Excited
 **2015**    
 Hoff, D.E.M., Barnes, A.B. et al. [_Frequency swept microwaves for hyperfine decoupling and time domain dynamic nuclear polarization_](https://doi.org/10.1016/j.ssnmr.2015.10.001) Solid State Nuclear Magnetic Resonance, Volume 72, 2015, 79-89.
 
-## Conferences and Awards:
+## Conferences/Talks and Awards:
+
+**2020**
+Heavy Ion Discussion at Argonne National Laboratory
+_A Crack in Nuclear Mirror Symmetry_
+
+Nuclear and Particle Physics Colloquium
+_A Crack in Nuclear Mirror Symmetry_
 
 **2019**     
 Poster at Nuclear Chemistry Gordon Conference    
