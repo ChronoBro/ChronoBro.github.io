@@ -105,7 +105,7 @@ Heavy Ion Discussion at Argonne National Laboratory
 _A Crack in Nuclear Mirror Symmetry_   
 
 
-Nuclear and Particle Physics Colloquium     
+Nuclear and Particle Physics Colloquium at Massachusetts Institute of Technology
 _A Crack in Nuclear Mirror Symmetry_    
 
 **2019**     
