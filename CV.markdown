@@ -101,11 +101,11 @@ Hoff, D.E.M., Barnes, A.B. et al. [_Frequency swept microwaves for hyperfine dec
 ## Conferences/Talks and Awards:
 
 **2020**   
-Heavy Ion Discussion at Argonne National Laboratory  
+Invited Talk at Argonne National Laboratory (ANL) Heavy Ion Discussion     
 _A Crack in Nuclear Mirror Symmetry_   
 
 
-Nuclear and Particle Physics Colloquium at Massachusetts Institute of Technology
+Invited Talk at Massachusetts Institute of Technology (MIT) Nuclear and Particle Physics Colloquium   
 _A Crack in Nuclear Mirror Symmetry_    
 
 **2019**     
