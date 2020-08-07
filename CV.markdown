@@ -78,7 +78,7 @@ Searching for physics Beyond the Standard Model using nuclear spectroscopic tech
 ## Publications:
 
 **2020**
-Kennington, A.R.L et al. [_Search for Nova Presolar Grains: \\(\gamma\\)-Ray Spectroscopy of <sup>34</sup>Ar and its Relevance for the Astrophysical <sup>33</sup>Cl(p,\\(\gamma\\) Reaction_](https://link.aps.org/doi/10.1103/PhysRevLett.124.252702) Physical Review Letters 124 (25), 252702.  
+Kennington, A.R.L et al. [_Search for Nova Presolar Grains: \\(\gamma\\)-Ray Spectroscopy of <sup>34</sup>Ar and its Relevance for the Astrophysical <sup>33</sup>Cl(p,\\(\gamma)\\) Reaction_](https://link.aps.org/doi/10.1103/PhysRevLett.124.252702) Physical Review Letters 124 (25), 252702.  
 
 Webb, T.B. et al. [_Invariant-mass spectrum of <sup>11</sup>O_](https://link.aps.org/doi/10.1103/PhysRevC.101.044317) Physical Review C 101 (4), 044317.    
 
