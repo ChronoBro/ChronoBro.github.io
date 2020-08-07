@@ -77,8 +77,12 @@ Searching for physics Beyond the Standard Model using nuclear spectroscopic tech
 
 ## Publications:
 
-**2020**     
-Hoff, D.E.M., Rogers, A.M., Wang, S.M.(王思敏) et al. [_Mirror-symmetry violation in bound nuclear ground states._](https://doi.org/10.1038/s41586-020-2123-1) Nature 580, 52–55 (2020). 
+**2020**
+Kennington, A.R.L et al. [_Search for Nova Presolar Grains: \\(\gamma\\)-Ray Spectroscopy of <sup>34</sup>Ar and its Relevance for the Astrophysical <sup>33</sup>Cl(p,\\(\gamma\\) Reaction_](https://link.aps.org/doi/10.1103/PhysRevLett.124.252702) Physical Review Letters 124 (25), 252702.  
+
+Webb, T.B. et al. [_Invariant-mass spectrum of <sup>11</sup>O_](https://link.aps.org/doi/10.1103/PhysRevC.101.044317) Physical Review C 101 (4), 044317.    
+
+Hoff, D.E.M., Rogers, A.M., Wang, S.M.(王思敏) et al. [_Mirror-symmetry violation in bound nuclear ground states._](https://doi.org/10.1038/s41586-020-2123-1) Nature 580, 52–55. 
 
 
 **2019**     
