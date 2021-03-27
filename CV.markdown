@@ -19,7 +19,14 @@ B.S. Mathematics		_University of Chicago_
 
 ## Publications:
 
-**2020**
+**2021**          
+Kennington, A.R.L. et al. [_Level Structure of the T<sub>z</sub>=-1 Nucleus <sup>34</sup>Ar and its Relevance for Nucleosynthesis in ONe Novae_](https://doi.org/10.1103/PhysRevC.103.035805) Physical Review C 103, 035805.
+
+**2020**            
+Hoff, D.E.M. et al. [_Influence of  <sup>73</sup>Rb on the Ashes of Accreting Neutron Stars_](https://doi.org/10.1103/PhysRevC.102.045810) Physical Review C 102, 045810.     
+    
+Pruitt, C.D. et al. [_Isotopically Resolved Neutron Total Cross Sections at Intermediate Energies_](https://doi.org/10.1103/PhysRevC.102.034601) Physical Review C 102, 034601. 
+
 Kennington, A.R.L et al. [_Search for Nova Presolar Grains: \\(\gamma\\)-Ray Spectroscopy of <sup>34</sup>Ar and its Relevance for the Astrophysical <sup>33</sup>Cl(p,\\(\gamma)\\) Reaction_](https://link.aps.org/doi/10.1103/PhysRevLett.124.252702) Physical Review Letters 124 (25), 252702.  
 
 Webb, T.B. et al. [_Invariant-mass spectrum of <sup>11</sup>O_](https://link.aps.org/doi/10.1103/PhysRevC.101.044317) Physical Review C 101 (4), 044317.    
