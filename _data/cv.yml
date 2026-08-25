@@ -1,0 +1,89 @@
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Scientist
+      institution: Lawrence Livermore National Laboratory
+      year: 2023–present
+      description:
+        - Developed novel neutron and γ-ray detectors for photofission diagnostics.
+        - Designed, and led experiments for novel nuclear reaction mechanisms.
+        - Implemented Bayesian analysis algorithms for debris diagnostics.
+    - title: Postdoctoral Research Associate
+      institution: Lawrence Livermore National Laboratory
+      year: 2021–2023
+      description:
+        - Developed sophisticated detector simulations using high-performance computing.
+        - Led students and interns performing β-decay and γ-ray measurements.
+        - Oversaw detector systems for precision β-decay measurements, including testing and calibration.
+    - title: Postdoctoral Research Associate
+      institution: University of Massachusetts Lowell
+      year: 2018–2021
+      description:
+        - Designed charged-particle detector arrays for experiments searching for new isotopes.
+        - Mentored graduate students and taught undergraduate introductory physics.
+        - Developed analysis software for β-decay and γ-ray measurements.
+    - title: Graduate Research Assistant
+      institution: Washington University in St. Louis
+      year: 2014–2018
+      description: Advisor — Lee Sobotka
+    - title: Staff Scientist
+      institution: Washington University in St. Louis
+      year: 2013–2014
+      description: Advisor — Alexander Barnes
+    - title: Undergraduate Research Assistant
+      institution: University of Chicago
+      year: 2010–2012
+      description: Advisor — Scott Wakely
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Nuclear Chemistry
+      institution: Washington University in St. Louis
+      year: 2018
+      description:
+        - Advisor — Lee Sobotka
+        - '<a href="https://openscholarship.wustl.edu/art_sci_etds/1626/">Spin Alignment Generated in Inelastic Nuclear Reactions</a>'
+    - title: B.A. in Physics with honors · B.S. in Mathematics
+      institution: University of Chicago
+      year: 2013
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Instructor — Phys. 1410 Classical Mechanics
+      institution: University of Massachusetts Lowell
+      year: Spring 2020
+      description: First-semester physics lecture; 24 undergraduates.
+    - title: Instructor — Phys. 1440 Electromagnetism
+      institution: University of Massachusetts Lowell
+      year: Fall 2019
+      description: Second-semester physics lecture; 10 undergraduates.
+    - title: Teaching Assistant — Chem. 460 Radiochemistry
+      institution: Washington University in St. Louis
+      year: Fall 2017
+      description: Upper-level undergraduate and graduate laboratory.
+    - title: Teaching Assistant — Chem. 151/152 General Chemistry Laboratory
+      institution: Washington University in St. Louis
+      year: 2014–2016
+
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Scientific computing
+      items:
+        - ROOT, C++, Python, high-performance computing
+    - title: Simulation and design
+      items:
+        - GEANT4, Autodesk Inventor, SolidWorks
+
+- title: Selected Publications
+  type: list
+  contents:
+    - See the <a href="/publications/">publications page</a> for the complete journal bibliography and selected work.
+
+#- title: Selected Talks
+#  type: list
+#  contents:
+#    - See the <a href="/talks/">talks page</a> for invited seminars, conference presentations, and posters.
+
