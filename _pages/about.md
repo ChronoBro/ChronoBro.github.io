@@ -25,9 +25,11 @@ latest_posts:
   limit: 2
 ---
 
+<!--
 I am an experimental nuclear physicist at Lawrence Livermore National Laboratory. I specialize in the development radiation detectors, radiation-transport simulations and nuclear reaction experiments. 
+-->
 
-My research has ranged from mirror-symmetry breaking in exotic nuclei to understanding the nuclear properties that shape astrophysical environments. I build detector systems, develop analysis tools, and lead experiments at accelerator facilities across the United States.
+My research has ranged from symmetry-breaking phenomena in exotic nuclei to understanding the nuclear properties that shape astrophysical environments. I build detector systems, develop analysis tools, and lead experiments at accelerator facilities across the United States.
 
 <!--
 #Outside the laboratory, I write short fiction, draw, play video games,
