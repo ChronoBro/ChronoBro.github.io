@@ -9,7 +9,7 @@ last_name: Hoff
 contact_note: Experimental nuclear physicist at Lawrence Livermore National Laboratory.
 description: Research, publications, talks, and creative work by experimental nuclear physicist Daniel E. M. Hoff.
 footer_text: >
-  © 2026 Daniel E. M. Hoff. Built with Jekyll and al-folio.
+  Built with Jekyll and al-folio.
 keywords: nuclear physics, nuclear astrophysics, radiation detection, photofission, Daniel Hoff, LLNL
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -250,7 +250,6 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: [fiction, science-fiction]
 display_categories: []
 
 # -----------------------------------------------------------------------------

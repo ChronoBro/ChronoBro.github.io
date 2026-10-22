@@ -4,6 +4,7 @@ permalink: /blog/
 title: creative work
 nav: true
 nav_order: 5
+display_tags: [science-fiction, gaming]
 pagination:
   enabled: true
   collection: posts
@@ -29,11 +30,11 @@ pagination:
   </div>
   {% endif %}
 
-{% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
+{% if page.display_tags and page.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
 
   <div class="tag-category-list">
     <ul class="p-0 m-0">
-      {% for tag in site.display_tags %}
+      {% for tag in page.display_tags %}
         <li>
           <i class="fa-solid fa-hashtag fa-sm"></i> <a href="{{ tag | slugify | prepend: '/blog/tag/' | relative_url }}">{{ tag }}</a>
         </li>
@@ -41,7 +42,7 @@ pagination:
           <p>&bull;</p>
         {% endunless %}
       {% endfor %}
-      {% if site.display_categories.size > 0 and site.display_tags.size > 0 %}
+      {% if site.display_categories.size > 0 and page.display_tags.size > 0 %}
         <p>&bull;</p>
       {% endif %}
       {% for category in site.display_categories %}
@@ -179,7 +180,9 @@ pagination:
 </div>
 
   <div class="col-sm-3">
-    <img class="card-img" src="{{ post.thumbnail | relative_url }}" style="object-fit: cover; height: 90%" alt="image">
+    {% if post.thumbnail_url %}<a href="{{ post.thumbnail_url | escape }}">{% endif %}
+    <img class="card-img" src="{{ post.thumbnail | relative_url }}" style="object-fit: cover; height: 90%" alt="{{ post.title | escape }}">
+    {% if post.thumbnail_url %}</a>{% endif %}
   </div>
 </div>
 {% endif %}

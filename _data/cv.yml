@@ -5,9 +5,10 @@
       institution: Lawrence Livermore National Laboratory
       year: 2023–present
       description:
-        - Developed novel neutron and γ-ray detectors for photofission diagnostics.
-        - Designed, and led experiments for novel nuclear reaction mechanisms.
-        - Implemented Bayesian analysis algorithms for debris diagnostics.
+        - Developed agent workflows to autonomously run radiation-transport simulations and perform γ-ray spectroscopy.
+        - Migrated <a href="https://github.com/rileyle/UCGretina">UCGretina</a> to multithreaded execution, using an agent workflow to evaluate generated spectra against validated references.
+        - Built a CLI chatbot using local LLMs for secure, offline environments.
+        - Modernized analysis tools for nuclear forensics and debris diagnostics.
     - title: Postdoctoral Research Associate
       institution: Lawrence Livermore National Laboratory
       year: 2021–2023
@@ -26,14 +27,6 @@
       institution: Washington University in St. Louis
       year: 2014–2018
       description: Advisor — Lee Sobotka
-    - title: Staff Scientist
-      institution: Washington University in St. Louis
-      year: 2013–2014
-      description: Advisor — Alexander Barnes
-    - title: Undergraduate Research Assistant
-      institution: University of Chicago
-      year: 2010–2012
-      description: Advisor — Scott Wakely
 
 - title: Education
   type: time_table
@@ -73,6 +66,7 @@
     - title: Scientific computing
       items:
         - ROOT, C++, Python, high-performance computing
+        - AI agents and LLM applications
     - title: Simulation and design
       items:
         - GEANT4, Autodesk Inventor, SolidWorks

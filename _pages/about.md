@@ -34,7 +34,9 @@ My research has ranged from symmetry-breaking phenomena in exotic nuclei to unde
 <!--
 #Outside the laboratory, I write short fiction, draw, play video games,
 -->
-I remain fascinated by neutron stars, gravitational waves, and the increasingly connected view of the universe ranging from the smallest particles to the cosmos.
+I remain fascinated by neutron stars, gravitational waves, and the deeply connected view of the universe ranging from the smallest particles to the cosmos.
+
+I have been increasingly interested in developing and working with AI systems to explore how they can be applied to science. I believe we may be entering into a new era for scientific discovery.
 
 <div class="space-rule" aria-hidden="true"></div>
 
@@ -45,3 +47,4 @@ I remain fascinated by neutron stars, gravitational waves, and the increasingly 
 - **Radiation detection:** novel neutron and γ-ray detector systems.
 - **Nuclear astrophysics:** masses, decay properties, and reaction pathways in nucleosynthetic environments.
 - **Scientific computing:** GEANT4 simulations, high-performance computing, and Bayesian analysis.
+- **AI agents for science:** autonomous data analysis and simulation.

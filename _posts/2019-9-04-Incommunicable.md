@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Incommunicable
+tags: [science-fiction]
 ---
 
    Mollie woke up to her usual "Good morning sweetie" from her Mother with the words projected directly to her vision from her aiCOM. It was the first day of summer season on Io-24993, a colonized moon of Diaz-549 (aptly named for the great space explorer Diaz Columbo that first discovered the gas giant planet around a millennium ago), and she was ready to relax after finishing grade-13.
@@ -192,6 +193,4 @@ As these words passed through her mind the familiar image of her brother appeare
    She felt a shock on the back of her neck and the colors shining through the dome gradually faded to gray, with thick clouds of dust appearing at the same time as a hole in the dome. 
 
    Gasping for air she awoke.
-   
-   
-   
+
