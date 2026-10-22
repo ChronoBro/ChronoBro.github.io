@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-voices",
+        },{id: "post-space-combat",
+        
+          title: "Space Combat",
+        
+        description: "A flick-based tactical space combat game inspired by a pencil-and-paper game I played as a kid.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/space-combat/";
+          
+        },
+      },{id: "post-voices",
         
           title: "Voices",
         
