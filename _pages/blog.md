@@ -181,7 +181,7 @@ pagination:
 
   <div class="col-sm-3">
     {% if post.thumbnail_url %}<a href="{{ post.thumbnail_url | escape }}">{% endif %}
-    <img class="card-img" src="{{ post.thumbnail | relative_url }}" style="object-fit: cover; height: 90%" alt="{{ post.title | escape }}">
+    <img class="img-fluid rounded" src="{{ post.thumbnail | relative_url }}" width="252" height="200" style="width: 252px; max-width: 100%; height: auto" alt="{{ post.title | escape }}">
     {% if post.thumbnail_url %}</a>{% endif %}
   </div>
 </div>
